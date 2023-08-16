@@ -1,5 +1,3 @@
-
-	<script>
 function myFunction() {
 
  var myInput = document.getElementById("myInput").value;
@@ -113625,5 +113623,5 @@ var jdwaaal = "";
 
 }
 
-	</script>
+
 
